@@ -1,0 +1,41 @@
+.advt {
+    height: 200px;
+    width: 90%;
+    background-color: #043b71;
+    margin-top: 40px;
+    margin-left: 70px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    flex: column;
+}
+
+.advt__background {
+    text-align: center;
+    display: flex;
+}
+
+.advt__textCover {
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.advt__text {
+    color: white;
+    font-size: 30px;
+    line-height: 10%;
+}
+.advt__text1 {
+    color: yellow;
+    font-size: 30px;
+    line-height: 10%;
+}
+
+.advt__imgBox {
+    margin-left: 200px;
+}
+
+.advt__img {
+    height: 200px;
+    width: 200x;
+    z-index: 999;
+}
