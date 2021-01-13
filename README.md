@@ -1,5 +1,5 @@
 # OnlineStore_Prime
-It's a online store with Prime shows available.
+It's a online store with Prime shows.
 
 # First Page
 ![alt text](https://github.com/Anuj-yadav1999/OnlineStore_Prime/blob/main/z_images/first_pt.PNG)
