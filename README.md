@@ -1,5 +1,6 @@
 # OnlineStore_Prime
 It's an online store with Prime shows.
+We can simple search on search Bar.
 
 # First Page
 ![alt text](https://github.com/Anuj-yadav1999/OnlineStore_Prime/blob/main/z_images/first_pt.PNG)
